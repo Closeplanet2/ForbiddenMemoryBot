@@ -1,0 +1,12 @@
+class StoredCardKeys:
+    CardID = "CardID"
+    CardURL = "CardURL"
+    CardName = "CardName"
+    CardType = "CardType"
+    Type = "Type"
+    GuardianStars = "GuardianStars"
+    CardLevel = "CardLevel"
+    CardAtk = "CardAtk"
+    CardDef = "CardDef"
+    CardPassword = "CardPassword"
+    SCCost = "SCCost"
